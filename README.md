@@ -1,3 +1,4 @@
+"удали."
 <div align="center">
   <img src="https://media1.tenor.com/m/2fks49f8WCgAAAAC/mortis-mutsumi-wakaba.gif" width="70%" />
 </div>
