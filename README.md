@@ -1,6 +1,6 @@
 во как умею
 <div align="center">
-  <img src="https://media1.tenor.com/m/2fks49f8WCgAAAAC/mortis-mutsumi-wakaba.gif" width="70%" />
+  <img src="https://media1.tenor.com/m/9cr1A1OIgFIAAAAC/yoshiki-chiikawa.gif" width="70%" />
 </div>
 
 <!--
