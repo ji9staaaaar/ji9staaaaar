@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://tenor.com/view/cat-cat-jumping-cat-excited-excited-dance-gif-19354605" width="50%" />
+  <img src="https://media1.tenor.com/m/9cr1A1OIgFIAAAAC/yoshiki-chiikawa.gif" width="50%" />
 </div>
 
 <!--
